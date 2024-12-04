@@ -1,0 +1,18 @@
+{
+  "name": "work-from-fun",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.6.0",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "bunbot": "^0.0.6"
+  }
+}
