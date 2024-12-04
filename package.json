@@ -6,7 +6,6 @@
     "start": "bun run index.ts"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.6.0",
     "@types/bun": "latest"
   },
   "peerDependencies": {
